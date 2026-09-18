@@ -34,6 +34,7 @@ git clone https://github.com/despoth/antislop-meter.git ~/.claude/skills/antislo
 | [`references/generators.md`](references/generators.md) | образцы по генераторам: скелеты и дефолты 1С-UMI, Tobiz, Durable, Lovable, v0, Framer и других |
 | [`references/log.md`](references/log.md) | журнал замеров и калибровочные точки |
 | [`tools/probe.py`](tools/probe.py) | быстрый разбор URL: вес страницы, заголовки, повторы кнопок, найденные коды |
+| [`tools/shots.py`](tools/shots.py) | лист кадров сайта через headless Chromium (Playwright) — обязательный шаг замера |
 
 ## Оси каталога
 

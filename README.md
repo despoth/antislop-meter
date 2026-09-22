@@ -27,7 +27,7 @@ git clone https://github.com/despoth/antislop-meter.git ~/.claude/skills/antislo
 | Файл | Что внутри |
 |---|---|
 | [`SKILL.md`](SKILL.md) | процедура замера, система оценки, правила честности |
-| [`references/criteria.md`](references/criteria.md) | каталог: 159 критериев по 10 осям, у каждого признак, вес и чем заменить |
+| [`references/criteria.md`](references/criteria.md) | каталог: 164 критерия по 11 осям, у каждого признак, вес и чем заменить |
 | [`references/exclusions.md`](references/exclusions.md) | что не считать слопом: осознанные решения проекта |
 | [`references/output.md`](references/output.md) | формат саммари и расширенной таблицы |
 | [`references/example-slop.md`](references/example-slop.md) | эталон на 1,0 из 10 с разбором каждой находки |
@@ -49,7 +49,8 @@ git clone https://github.com/despoth/antislop-meter.git ~/.claude/skills/antislo
 | **X** | содержание: тексты, цифры, служебка |
 | **P** | давление и тёмные паттерны: дефицит, таймеры, апсейлы |
 | **U** | шаблонная подача: скелет, тройки, рубрики, штампы |
-| **R** | реабилитация: за что вернуть баллы |
+| **E** | исполнение: хардкод, мёртвый код, подключено и не используется |
+| **R** | реабилитация: за что вернуть баллы, включая техническую опрятность |
 | **N** | вторичность: придумано под это содержание или взято из чужого словаря |
 
 ## Как считает

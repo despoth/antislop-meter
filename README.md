@@ -32,6 +32,7 @@ git clone https://github.com/despoth/antislop-meter.git ~/.claude/skills/antislo
 | [`references/output.md`](references/output.md) | формат саммари и расширенной таблицы |
 | [`references/example-slop.md`](references/example-slop.md) | эталон на 1,0 из 10 с разбором каждой находки |
 | [`references/generators.md`](references/generators.md) | образцы по генераторам: скелеты и дефолты 1С-UMI, Tobiz, Durable, Lovable, v0, Framer и других |
+| [`references/micro.md`](references/micro.md) | микроуровень ±0,1: 35 микроштрафов и 25 микробонусов |
 | [`references/log.md`](references/log.md) | журнал замеров и калибровочные точки |
 | [`tools/probe.py`](tools/probe.py) | быстрый разбор URL: вес страницы, заголовки, повторы кнопок, найденные коды |
 | [`tools/shots.py`](tools/shots.py) | лист кадров сайта через headless Chromium (Playwright) — обязательный шаг замера |

@@ -29,7 +29,7 @@ git clone https://github.com/despoth/antislop-meter.git ~/.claude/skills/antislo
 | Файл | Что внутри |
 |---|---|
 | [`SKILL.md`](SKILL.md) | процедура замера, система оценки, правила честности |
-| [`references/criteria.md`](references/criteria.md) | каталог: 170 критериев по 12 осям, у каждого признак, вес и чем заменить |
+| [`references/criteria.md`](references/criteria.md) | каталог: 171 критерий по 12 осям, у каждого признак, вес и чем заменить |
 | [`references/exclusions.md`](references/exclusions.md) | что не считать слопом: осознанные решения проекта |
 | [`references/output.md`](references/output.md) | формат саммари и расширенной таблицы |
 | [`references/example-slop.md`](references/example-slop.md) | эталон на 1,0 из 10 с разбором каждой находки |
